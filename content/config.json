@@ -1,0 +1,56 @@
+{
+  "title": "Blog by Joshua Jones",
+  "url": "https://jonesprojects.co.uk",
+  "subtitle": "Personal site of Joshua Jones a former Mechanical Engineer, Software Engineer, currently a Product Manager.",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    },
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    },
+    {
+      "label": "Contact me",
+      "path": "/pages/contacts"
+    },
+
+    {
+      "label": "My projects",
+      "path": "/pages/projects"
+    },
+    {
+      "label": "Free code camp certificates",
+      "path": "/pages/fcc"
+    }
+  ],
+  "author": {
+    "name": "Joshua Jones",
+    "photo": "/photo.jpeg",
+    "bio": "I am a former mechanical engineer working as a product manager at a tech startup, I was lucky enough to find a great remote job just before COVID, and now I'm managing my companies second product.",
+    "contacts": {
+      "rss": "",
+      "email": "joshua.ar.jones@gmail.com",
+      "github": "JoshuaAdrianJones",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "Joshua_AR_Jones",
+      "linkedin": "joshuajonesengineering/",
+      "instagram": "",
+      "mastodon": "",
+      "line": "",
+      "weibo": "",
+      "gitlab": "JoshuaAdrianJones",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": ""
+    }
+  }
+}

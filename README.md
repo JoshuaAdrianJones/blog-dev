@@ -1,3 +1,27 @@
+<h1 align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/master/.github/logo-light.png" width="140">
+      <img src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/master/.github/logo-dark.png" width="140">
+    </picture>
+    <br>
+    A gatsby Lumen blog
+</h1>
+
+<h4 align="center">
+  Personal blog forked from https://github.com/alxshelepenok/gatsby-starter-lumen
+</h4>
+
+## Quick Start
+
+```
+$ npm install
+$ npm run start
+```
+
+# Forked under MIT License
+
+## License
+
 The MIT License (MIT)
 
 Copyright (c) 2016-2023 Alexander Shelepenok
